@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas Dialog</string>
+    <array name="absensi">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+</resources>
